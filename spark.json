@@ -1,7 +1,7 @@
 {
-  "name": "eo-labs",
+  "name": "eoLabs-library",
   "author": "Tim Hall <thall@eo-labs.com>",
   "license": "MIT",
   "version": "0.0.1",
-  "description": "A library of device drivers for the Spark Library"
+  "description": "A simple library device drivers for Spark"
 }
