@@ -2,6 +2,6 @@
   "name": "eoLabs-library",
   "author": "Tim Hall <thall@eo-labs.com>",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple library device drivers for Spark"
 }
